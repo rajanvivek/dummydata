@@ -9,9 +9,20 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "object" : {
-        "name": "typicode",
-        "desc": "desciption"
-    }
+    "profilename": "Profile Name",
+    "objects" : [
+      {
+        "name": "Object 1",
+        "desc": "Desc 1"
+      },
+      {
+        "name": "Object 2",
+        "desc": "Desc 2"
+      },
+      {
+        "name": "Object 3",
+        "desc": "Desc 4"
+      }
+    ]
   }
 }
