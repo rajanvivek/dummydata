@@ -5,14 +5,17 @@
   },
   "objectlist": [
     {
+      "id": 1,
       "name": "object 1 name",
       "desc": "object 1 desc"
     },
     {
+      "id": 2,
       "name": "object 2 name",
       "desc": "object 2 desc"
     },
     {
+      "id": 3,
       "name": "object 3 name",
       "desc": "object 3 desc"
     }
