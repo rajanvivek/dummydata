@@ -3,7 +3,7 @@
     "name": "object name",
     "desc": "object desc"
   },
-  "object list": [
+  "objectlist": [
     {
       "name": "object 1 name",
       "desc": "object 1 desc"
