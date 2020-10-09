@@ -1,6 +1,4 @@
 {
-  "name": "DB Name",
-  "desc": "DB desc",
   "object": {
     "name": "object name",
     "desc": "object desc"
