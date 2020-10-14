@@ -1,70 +1,16 @@
+
 {
-  "objectlist": [
-    {
-      "id": "a1",
-      "name": "object 1 name",
-      "desc": "object 1 desc",
-      "users": [
-        {
-          "id": 1,
-          "kerberos": "vr",
-          "name": "vivek"
-        },
-        {
-          "id": 2,
-          "kerberos": "ka",
-          "name": "krishna"
-        },
-        {
-          "id": 2,
-          "kerberos": "pm",
-          "name": "prasad"
-        }
-      ]
-    },
-    {
-      "id": "a2",
-      "name": "object 2 name",
-      "desc": "object 2 desc",
-      "users": [
-        {
-          "id": 1,
-          "kerberos": "vr",
-          "name": "vivek"
-        },
-        {
-          "id": 2,
-          "kerberos": "ka",
-          "name": "krishna"
-        },
-        {
-          "id": 2,
-          "kerberos": "pm",
-          "name": "prasad"
-        }
-      ]
-    },
-    {
-      "id": "a3",
-      "name": "object 3 name",
-      "desc": "object 3 desc",
-      "users": [
-        {
-          "id": 1,
-          "kerberos": "vr",
-          "name": "vivek"
-        },
-        {
-          "id": 2,
-          "kerberos": "ka",
-          "name": "krishna"
-        },
-        {
-          "id": 2,
-          "kerberos": "pm",
-          "name": "prasad"
-        }
-      ]
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode",
+    "kerberos": "rajanvi"
+  }
 }
