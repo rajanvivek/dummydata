@@ -11,6 +11,9 @@
   ],
   "profile": {
     "name": "typicode",
-    "kerberos": "rajanvi"
+    "kerberos": [
+      "rajanvi",
+      "adavik"
+    ]
   }
 }
