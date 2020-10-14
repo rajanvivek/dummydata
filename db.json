@@ -11,6 +11,7 @@
   ],
   "profile": {
     "name": "typicode",
+    "singleKerb": "mukkap",
     "kerberos": [
       {
         "id": "rajanvi"
